@@ -1,0 +1,101 @@
+*{
+        margin: 0%;
+        padding: 0%;
+}
+body{
+        background-color: #a7a7a7;
+        font-family: 'Roboto';
+        font-size: 22px;
+}
+.container{
+        max-width: 1000px;
+        background-color: rgb(203, 223, 223);
+        margin: 0 auto;
+        padding: 20px;
+}
+.profile-image{
+       width: 100px;      
+       height: 100px;
+       border: 3px solid white;
+       border-radius: 50px;
+       float: left;
+}
+.text-1{
+        float: left;
+        padding: 25px;
+}
+h1,h2,h3,h4,h5,h6{
+        color: #119991;
+}
+#section-1{
+        float: right;
+        font-size: 15px;
+        padding: 30px;
+}
+#section-1 a{
+        text-decoration: none;
+        color:teal;
+        font-weight: bold;
+}
+#section-1 a:hover{
+        text-decoration: underline;
+        color: tomato;
+}
+.div-clear{
+        clear: both;
+}
+hr{
+        border: 3px solid black;
+        width: 100%;
+        border-bottom:none;
+        margin: 20px auto;
+}
+#personal-section{
+
+}
+.contant{
+
+}
+.left-div{
+        width: 30%;
+        float: left;
+}
+.right-div{
+        width: 70%;
+        float: right;        
+}
+p{
+        font-size: 17px;
+}
+.common-hr{
+        border: 1px solid black;
+        width: 100%;
+        border-bottom:none;
+        margin: 20px auto;
+}
+ul{
+        font-size: 16px;
+        
+}
+.left-div2{
+        width: 49%;
+        float: left;
+}
+.right-div2{
+        width: 45%;
+        float: right;
+}
+.footer-section{
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+}
+.footer-section a{
+        color: white;
+        text-decoration: none;
+        margin: 20px;
+}
+.footer-section p{
+        color: white;
+        margin-top: 20px;
+}
